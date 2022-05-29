@@ -7,6 +7,9 @@ https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/update-win
 
 https://forms.gle/Ai26ecpQ6YfcnH1W8
 
+## Yoklama 2. Gün
+
+https://forms.gle/VGyepy5p5B4AAHu27
 
 ## Active Directory Delegation Yöntemleri
 
