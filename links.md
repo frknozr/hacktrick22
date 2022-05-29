@@ -26,7 +26,7 @@ https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html
 
 ## Blogs
 
-https://www.ired.team/
-https://identityandsecuritydotcom.files.wordpress.com/2020/04/adsa-1-1.pdf
-https://adsecurity.org/
-https://forestall.io/blog/
+- https://www.ired.team/
+- https://identityandsecuritydotcom.files.wordpress.com/2020/04/adsa-1-1.pdf
+- https://adsecurity.org/
+- https://forestall.io/blog/
