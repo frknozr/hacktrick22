@@ -22,8 +22,11 @@ https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html
 - https://github.com/davidprowe/BadBlood
 - https://github.com/WazeHell/vulnerable-AD
 - https://detectionlab.network/
+- https://github.com/orgs/forestallio
 
 ## Blogs
 
 https://www.ired.team/
 https://identityandsecuritydotcom.files.wordpress.com/2020/04/adsa-1-1.pdf
+https://adsecurity.org/
+https://forestall.io/blog/
